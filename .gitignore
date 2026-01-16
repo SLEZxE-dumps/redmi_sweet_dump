@@ -1,0 +1,13 @@
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+vendor/camera/mimoji/model2.zip
+product/data-app/SmartHome/SmartHome.apk
+product/data-app/MIBrowserGlobal_removable/MIBrowserGlobal_removable.apk
+product/app/Messages/Messages.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/MiuiCamera/MiuiCamera.apk
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk
+boot.img
+boot/dtb/16_dtbdump_#vT~}.dtb

@@ -1,0 +1,10 @@
+ro.miui.google.csp=true
+ro.microsoft.onedrive_partner_code=/mi_ext/product/etc/onedrive_token.txt
+ro.koreapre.activity=ui.activity.PrivacyPolicyActivity
+ro.product.mod_device=sweet_k6a_global
+ro.koreapre.installer=com.boundax.koreapreloadappinstaller
+ro.miui.build.region=global
+ro.mi.os.version.code=1
+ro.mi.os.version.name=OS1.0
+ro.mi.os.version.incremental=OS1.0.28.0.THGMIXM
+ro.build.version.smr_baseversion=V816.0.25.0.THGMIXM

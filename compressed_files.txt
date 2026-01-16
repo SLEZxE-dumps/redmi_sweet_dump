@@ -1,0 +1,12 @@
+product/data-app/SmartHome/SmartHome.apk.xz
+system_ext/priv-app/Settings/Settings.apk.xz
+system_ext/apex/com.android.vndk.v30.apex.xz
+product/app/Messages/Messages.apk.xz
+product/data-app/MIBrowserGlobal_removable/MIBrowserGlobal_removable.apk.xz
+product/priv-app/GmsCore/GmsCore.apk.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+boot.img.xz
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk.xz
+boot/dtb/16_dtbdump_#vT~}.dtb.xz
+product/priv-app/Velvet/Velvet.apk.xz
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk.xz
